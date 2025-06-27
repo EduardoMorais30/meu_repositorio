@@ -6,5 +6,5 @@ function linguagemDosAnimais(animal) {
     else if (animal == 'vaca')
         return 'muu'
     else
-        return 'Informe gato, cachorro ou vaca'
+        return 'Informe gato, cachorro ou vaca!'
 }
